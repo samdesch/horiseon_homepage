@@ -25,6 +25,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Div element was changed to semantic tag of nav */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -87,16 +88,19 @@ p {
   background-color: #2589bd;
 }
 
+/* The three different CSS rules for benefits were consolidated into a single rule. */
 .benefit-name {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* The three separate benefit h3 rules were consolidated into a single rule */
 .benefit-name h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* The three separate benefit img rules were consolidated into a single rule */
 .benefit-name img {
   display: block;
   margin: 10px auto;
