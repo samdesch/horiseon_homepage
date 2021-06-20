@@ -18,7 +18,7 @@ Other than that, it is a basic webpage displaying information on the main servic
 See screenshot of the deployed webpage, below:
 ​
 
-![Horiseon Homepage](Assets/01-html-css-git-homework-demo.png)
+![Horiseon Homepage](../Assets/01-html-css-git-homework-demo.png)
 
 ## Credits
 
