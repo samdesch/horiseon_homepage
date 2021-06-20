@@ -52,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* This is the formatting for the hero element, placed on the page prior to the main text content */
 .hero {
   height: 800px;
   width: 100%;
@@ -61,6 +62,8 @@ p {
   background-position: center;
 }
 
+
+/* Float properties used to properly position main content images so that they alternate between being right and left of the text. */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -106,6 +109,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
 
 .main-section {
   margin-bottom: 20px;
