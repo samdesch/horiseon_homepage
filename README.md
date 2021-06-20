@@ -19,7 +19,7 @@ See screenshot of the deployed webpage, below:
 ​
 
 ```md
-![alt text](Assets\01-html-css-git-homework-demo.png)
+![alt text](Assets/01-html-css-git-homework-demo.png)
 ```
 
 ## Credits
